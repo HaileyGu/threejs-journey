@@ -23,7 +23,7 @@ Add a debug panel to tweak your environment and animate everything.
 
 ## 02 Classic techniques
 Illuminate your scene with various lights, start practicing environment creation and create millions of particles.
-* 7 lessons — 7h 06mn
+( 7 lessons — 7h 06mn )
 
 * 15 Lights 43mn
 * 16 Shadows 1h 00mn
@@ -36,7 +36,7 @@ Illuminate your scene with various lights, start practicing environment creation
 
 ## 03 Advanced techniques
 Add physics to your world so that objects start to collide and stumble. Then import your own model made with Blender and make it look as realistic as possible.
-*  5 lessons — 9h 44mn
+( 5 lessons — 9h 44mn )
 
 * 22 Physics 1h 57mn
 * 23 Imported models 1h 07mn
@@ -48,7 +48,7 @@ Add physics to your world so that objects start to collide and stumble. Then imp
 ## 04 Shaders
 Using Three.js materials is great but creating your own is even better.
 Learn the shader language to unleash the true power of WebGL and create stunning experiences!
-* 5 lessons — 7h 27mn
+( 5 lessons — 7h 27mn )
 
 * 27 Shaders 2h 16mn
 * 28 Shader patterns 1h 49mn
@@ -60,7 +60,7 @@ Learn the shader language to unleash the true power of WebGL and create stunning
 ## 05 Extra
 Creating a cool WebGL experience is useless if most computers can’t run it.
 Learn how to monitor and optimize performance to achieve the best possible frame rate.
-* 9 lessons — 11h 10mn
+( 9 lessons — 11h 10mn )
 
 * 32 Post-processing 1h 26mn
 * 33 Performance tips 1h 12mn
