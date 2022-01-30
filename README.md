@@ -5,7 +5,7 @@ Create your first scene and understand fundamentals like cameras, geometries, ma
 Add a debug panel to tweak your environment and animate everything.
 14 lessons — 9h 38mn
 
-01 Introduction 18mn
+* 01 Introduction 18mn
 02 What is WebGL and why use Three.js 23mn
 03 Basic scene 36mn
 04 Webpack 35mn
